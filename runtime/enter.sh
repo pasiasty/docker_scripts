@@ -1,1 +1,1 @@
-docker exec -it my_instance bash
+docker exec -it default_env_inst bash

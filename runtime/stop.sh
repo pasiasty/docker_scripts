@@ -1,0 +1,1 @@
+docker stop default_env_inst

@@ -1,1 +1,1 @@
-docker run -d -v `pwd`:/workdir --name my_instance -t my_container
+docker run -d -v `pwd`:/workdir --name default_env_inst mpasek/default_environment
